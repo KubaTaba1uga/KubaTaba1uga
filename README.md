@@ -4,7 +4,7 @@ I’m an **embedded Linux & C developer** learning and building my way toward **
 
 Right now, I’m focused on:
 - ⚙️ Exploring **board bring-up** (U-Boot, Device Tree, kernel boot).
-- 🖧 Learning and writing **drivers** for sensors, displays, and peripherals.
+- 🔭 Learning and writing **drivers** for sensors, displays, and peripherals.
 - 📦 Creating **reproducible Buildroot/Yocto images**.
 - 🖥️ Building simple **user-space apps** (C, LVGL, communication stacks).
 - 🔒 Practicing **integration skills**: performance, security, OTA updates.
