@@ -1,6 +1,6 @@
 # Hi, I’m Kuba 👋
 
-I’m an **embedded Linux & C developer** learning and building my way toward **end-to-end Linux stacks** — from **board bring-up** and **drivers** to **user-space services** and integration.
+I’m an **embedded Linux & C developer** learning and building my way toward **end-to-end Linux stacks**: from **board bring-up** and **drivers** to **user-space services** and integration.
 
 Right now, I’m focused on:
 - ⚙️ Exploring **board bring-up** (U-Boot, Device Tree, kernel boot).
