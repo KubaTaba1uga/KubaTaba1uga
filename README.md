@@ -23,6 +23,6 @@ These are learning projects, but also stepping stones toward **production-grade 
 
 ---
 
-🔗 [Website](https://kubataba1uga-website.up.railway.app) • [LinkedIn](https://www.linkedin.com/in/jakub~b/) • [Mastodon](https://mastodon.social/@kubataba1uga)
+🔗 [Website](https://funwithcomputers.fyi) • [LinkedIn](https://www.linkedin.com/in/jakub~b/) 
 
 > I’m documenting this journey openly. If you’re interested in embedded Linux, or if your company builds hardware that needs Linux expertise, feel free to connect!
