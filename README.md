@@ -1,28 +1,42 @@
-# Hi, I’m Kuba 👋
+# Hi, I'm Kuba 👋
 
-I’m an **embedded Linux & C developer** learning and building my way toward **end-to-end Linux stacks**: from **board bring-up** and **drivers** to **user-space services** and integration.
+I'm Jakub Buczyński, an **Embedded Linux engineer and founder of LimboLabs**, an independent engineering consultancy specializing in **board bring-up, BSP development, and Linux drivers** for ARM-based devices.
 
-Right now, I’m focused on:
-- ⚙️ Exploring **board bring-up** (U-Boot, Device Tree, kernel boot).
-- 🔭 Learning and writing **drivers** for sensors, displays, and peripherals.
-- 📦 Creating **reproducible Buildroot/Yocto images**.
-- 🖥️ Building simple **user-space apps** (C, LVGL, communication stacks).
-- 🔒 Practicing **integration skills**: performance, security, OTA updates.
+I work across the embedded Linux stack, from bootloaders and device trees to kernel integration, peripheral drivers, and user-space applications.
 
-### 🌱 Current Journey
-I’m working on small demos like:
-- 📚 An STM32MP1 **eBook reader** (display + LVGL + PDF rendering).
-- 📞 An STM32MP2 **VoIP softphone** (audio + networking + SIP).
+### 🔧 Embedded Linux Engineering — LimboLabs
 
-These are learning projects, but also stepping stones toward **production-grade Linux solutions**.
+Through **LimboLabs**, I provide engineering services in three areas:
 
-### 🛠️ What you’ll find here
-- **Learning repos** → experiments, drivers, kernel modules, and C libraries.
-- **Tools & utilities** → scripts and helpers for Linux development.
-- **Demo projects** → end-to-end examples I’m polishing into case studies.
+- **Board Bring-up** — Debugging boot failures, configuring U-Boot and device trees, and integrating Linux with custom hardware.
+- **BSP Development** — Building and maintaining embedded Linux platforms using Buildroot, U-Boot, and the Linux kernel.
+- **Linux Drivers** — Developing, integrating, and debugging drivers for SPI, I²C, GPIO, UART, and other peripherals.
+
+🔗 **[Embedded Linux Consulting — LimboLabs](https://funwithcomputers.fyi/static/consulting.html)**
+
+### 🛠️ Technical Focus
+
+- **Platforms:** STM32MP1, ARM Cortex-A
+- **Boot chain:** TF-A, OP-TEE, U-Boot, Linux
+- **Build systems:** Buildroot, Yocto (learning)
+- **Kernel development:** Device Tree, Linux drivers, peripheral integration
+- **Languages:** C, Python
+- **User space:** LVGL, Linux services, communication protocols
+
+### 📖 Fun With Computers
+
+I publish technical articles documenting my experiments, implementation decisions, debugging processes, and lessons learned.
+
+🔗 [Technical Blog](https://funwithcomputers.fyi)
 
 ---
 
-🔗 [Website](https://funwithcomputers.fyi) • [LinkedIn](https://www.linkedin.com/in/jakub~b/) 
+### 📬 Get in Touch
 
-> I’m documenting this journey openly. If you’re interested in embedded Linux, or if your company builds hardware that needs Linux expertise, feel free to connect!
+If your company needs help with **custom ARM hardware, Linux boot problems, BSP integration, or peripheral drivers**, I'm open to discussing engineering projects, subcontracting, and technical partnerships.
+
+**LimboLabs:** [Consulting Services](https://funwithcomputers.fyi/static/consulting.html)
+
+**Email:** [jakub.buczynski@limbolabs.dev](mailto:jakub.buczynski@limbolabs.dev)
+
+**LinkedIn:** [Jakub Buczyński](https://www.linkedin.com/in/jakub~b/)
